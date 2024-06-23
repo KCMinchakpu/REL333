@@ -1,2 +1,2 @@
 # REL333
-Welcome to My REL 333: Teachings of the Living Prophets Website. On this site, you will find my projects that include my Capstone Practicum, which involves my Learning, Listening, walking in the Covenant Path ...
+Welcome to My REL 333: Teachings of the Living Prophets Website. On this site, you will find my projects that include my Capstone Practicum, which involves my Learning, Listening, Walking in the Covenant Path as I learn from the teachings of Living Prophets and Apostles, listening to their Voices, and following in their footsteps as they follow Christ. You are personally welcome. This is my Summary, Reflection or Position Statement, and Collection of favourite quotes from the Teachings of the Apostles, and Living Prophets.
