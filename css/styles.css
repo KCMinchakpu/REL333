@@ -10919,3 +10919,17 @@ header.masthead .bg-circle-4 {
     font-size: 4rem;
   }
 }
+
+/*** Capstone Practicum ***/
+
+.lehi {
+  margin-top: 80px;
+}
+.nephi {
+  font-size: 19px;
+}
+
+.enos {
+  font-size: 25px;
+  font-weight: bold;
+}
