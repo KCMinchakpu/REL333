@@ -5,6 +5,5 @@ function goToNextPage() {
 }
 
 function goBack() {
-    window.location.href = 'same-sex.html', 'marriage-family.html', 'fyour-testimony.html', 'teach-truth.html',
-    'follow-prophets.html', 'your-covenant.html', 'our-identity.html';
+    window.history.back();
 }
