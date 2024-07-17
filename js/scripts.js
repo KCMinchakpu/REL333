@@ -1,8 +1,10 @@
+function goToNextPage() {
+    window.location.href = 'your-covenants.html', 'follow-prophets.html', 'teach-truth.html',
+    'your-testimony.html', 'marriage-family.html', 'same-sex.html', 'economic-meltdown.html', 'our-identity.html';
+    
+}
 
-var current = 0;
-var topics = ['topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8'];
-
-function step(incr) {
-    current += incr;
-    window.location.href = '#'+topics[current];
+function goBack() {
+    window.location.href = 'same-sex.html', 'marriage-family.html', 'fyour-testimony.html', 'teach-truth.html',
+    'follow-prophets.html', 'your-covenant.html', 'our-identity.html';
 }
